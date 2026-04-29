@@ -230,7 +230,7 @@ I'm actively looking for **Data Engineering** and **Backend Engineering** opport
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcos-pires-dev)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-01696f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos.pires@aluno.faculdadeimpacta.com.br)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-01696f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos.choppick@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcosCF1)
 
 <br/>
