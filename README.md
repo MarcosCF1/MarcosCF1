@@ -1,166 +1,193 @@
 <div align="center">
 
-<!-- BANNER SVG -->
-<svg width="820" height="160" viewBox="0 0 820 160" xmlns="http://www.w3.org/2000/svg">
+<svg width="860" height="180" viewBox="0 0 860 180" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a1628;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#0d2035;stop-opacity:1"/>
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#016b72"/>
+    <linearGradient id="teal" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#01696f"/>
       <stop offset="100%" style="stop-color:#4fa4b0"/>
     </linearGradient>
   </defs>
-  <rect width="820" height="160" rx="16" fill="url(#bg)"/>
-  <rect x="0" y="140" width="820" height="3" rx="2" fill="url(#accent)"/>
-  <text x="40" y="72" font-family="Georgia, serif" font-style="italic" font-size="52" fill="url(#accent)">Marcos Felipe</text>
-  <text x="42" y="110" font-family="Helvetica Neue, Arial, sans-serif" font-size="18" fill="#7a9aaa" letter-spacing="2">FULL STACK DEVELOPER  ·  AI INTEGRATION  ·  ANDROID</text>
-  <circle cx="770" cy="80" r="28" fill="none" stroke="#016b72" stroke-width="2" opacity="0.5"/>
-  <text x="770" y="87" text-anchor="middle" font-family="Georgia,serif" font-style="italic" font-size="22" fill="#4fa4b0">M</text>
+  <rect width="860" height="180" rx="14" fill="url(#bg)"/>
+  <rect x="0" y="155" width="860" height="3" rx="2" fill="url(#teal)"/>
+  <rect x="40" y="44" width="3" height="92" rx="2" fill="url(#teal)"/>
+  <text x="62" y="86" font-family="Georgia,serif" font-style="italic" font-size="54" fill="#e6edf3">Marcos</text>
+  <text x="62" y="86" font-family="Georgia,serif" font-style="italic" font-size="54" fill="url(#teal)" dx="218">Pires</text>
+  <text x="64" y="122" font-family="Helvetica Neue,Arial,sans-serif" font-size="15" fill="#8b949e" letter-spacing="3">FULL STACK DEVELOPER  ·  AI INTEGRATION  ·  ANDROID  ·  DATA ENGINEERING</text>
+  <circle cx="810" cy="70" r="32" fill="none" stroke="#01696f" stroke-width="1.5" opacity="0.6"/>
+  <circle cx="810" cy="70" r="20" fill="none" stroke="#4fa4b0" stroke-width="1" opacity="0.3"/>
+  <text x="810" y="77" text-anchor="middle" font-family="Georgia,serif" font-style="italic" font-size="24" fill="#4fa4b0">MP</text>
 </svg>
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/MarcosCF1?label=Followers&style=flat-square&color=016b72&labelColor=0a1628)](https://github.com/MarcosCF1)
-[![Location](https://img.shields.io/badge/📍-São%20Bernardo%20do%20Campo%2C%20SP-016b72?style=flat-square&labelColor=0a1628)](https://github.com/MarcosCF1)
-[![Status](https://img.shields.io/badge/🟢-Disponível%20para%20projetos-016b72?style=flat-square&labelColor=0a1628)](https://github.com/MarcosCF1)
+[![Hire Me](https://img.shields.io/badge/🟢%20Open%20to%20Work-Data%20Engineering%20%7C%20Backend-01696f?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/marcos-pires-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcos--pires--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcos-pires-dev)
+[![Location](https://img.shields.io/badge/📍-São%20Bernardo%20do%20Campo%2C%20SP%20·%20Brazil-8b949e?style=flat-square&labelColor=161b22)](https://github.com/MarcosCF1)
 
 </div>
 
 ---
 
-## 👋 Olá, sou o Marcos
+## About Me
 
-Sou desenvolvedor full stack baseado em **São Bernardo do Campo, SP**, especializado em **integração de IA** em sistemas de produção. Construo desde backends Python e APIs Node.js até apps Android nativos com Kotlin — sempre com foco em soluções práticas, escaláveis e de baixo custo operacional.
+I'm a **Full Stack Developer** based in São Paulo, Brazil, with 3+ years of experience building production systems that bridge **AI, backend automation, and mobile development**. I specialize in integrating LLMs into real-world applications, designing robust data pipelines, and shipping Android apps from scratch.
 
-Atualmente, estou desenvolvendo o **SYNAPSE**: um app Android para processamento de áudio em tempo real com transcrição via Google Gemini, integração com wearables e automações inteligentes.
+Currently deepening my expertise in **Data Engineering** — building ETL pipelines, working with PostgreSQL at scale, and exploring cloud-native data stacks. I also teach English, which makes me a sharp communicator in international technical environments.
+
+> *"Ship clean systems today. Scale confidently tomorrow."*
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Tech Stack
 
 <table>
 <tr>
-  <td valign="top" width="50%">
+<td valign="top" width="33%">
 
-**Backend & APIs**
-```
-Python        ████████████░░  90%
-Node.js       ██████████░░░░  75%
-Docker        ████████░░░░░░  60%
-PostgreSQL    █████████░░░░░  70%
-```
+**Backend & Data**
+- Python · Flask · FastAPI
+- Node.js · REST APIs
+- PostgreSQL · SQLite
+- Docker · Supabase
+- ETL Pipelines · SQL
 
-  </td>
-  <td valign="top" width="50%">
+</td>
+<td valign="top" width="33%">
 
-**Mobile & AI**
-```
-Kotlin/Android  ████████████░░  85%
-Google Gemini   █████████░░░░░  70%
-n8n Automation  ████████████░░  90%
-Supabase        █████████░░░░░  70%
-```
+**AI & Automation**
+- Google Gemini API
+- n8n (workflow automation)
+- Evolution API (WhatsApp)
+- LLM integration & prompting
+- Audio transcription pipelines
 
-  </td>
+</td>
+<td valign="top" width="33%">
+
+**Mobile & Frontend**
+- Kotlin · Android (Native)
+- Bluetooth / BLE (Mi Band 5)
+- React · TypeScript · Vite
+- Tailwind CSS · shadcn/ui
+- Playwright · Vitest
+
+</td>
 </tr>
 </table>
 
-**Ferramentas & Plataformas:**
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
----
-
-## 🚀 Projetos em Destaque
-
-### 🧠 SYNAPSE — Android AI Audio App
-> App Android nativo para captura e processamento de áudio com IA
-
-- **Stack:** Kotlin · Google Gemini · Supabase · n8n · Mi Band 5 (Bluetooth)
-- **Status:** 🔵 Em desenvolvimento ativo
-- Transcrição de áudio em tempo real via Gemini AI
-- Integração com wearable para contexto biométrico
-- Automações inteligentes com n8n
-
----
-
-### 🧘 [Diário Mental Felltrack](https://github.com/MarcosCF1/Di-rio-Mental-Felltrack)
-> App de saúde mental com metodologia Harvard 2025
-
-- **Stack:** HTML · CSS · JavaScript
-- Registro de humor e reflexões diárias
-- Interface web intuitiva e responsiva
-
----
-
-### 🤖 [Robô Seguidor de Linha](https://github.com/MarcosCF1/Rob-Seguidor-de-Linha)
-> Firmware para robô autônomo com controle PID
-
-- **Stack:** C/C++ · Arduino · Sensores IR
-- Algoritmos de detecção e navegação precisa
-- Desenvolvido para competições de robótica
-
----
-
-### 🍽️ [Sabor Local](https://github.com/MarcosCF1/Sabor-Local-)
-> Plataforma web para descoberta de restaurantes locais
-
-- **Stack:** HTML · CSS · JavaScript
-- Listagem e localização de estabelecimentos
-- Interface clean e responsiva
-
----
-
-### ⚙️ [Activities Test](https://github.com/MarcosCF1/Activities_test)
-> Scripts Python de automação e estudos
-
-- **Stack:** Python
-- Automações, algoritmos e experimentações
-- Repositório de aprendizado contínuo
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Marcos GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosCF1&show_icons=true&theme=dark&bg_color=0a1628&title_color=4fa4b0&icon_color=016b72&text_color=7a9aaa&border_color=1a3040&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCF1&layout=compact&theme=dark&bg_color=0a1628&title_color=4fa4b0&text_color=7a9aaa&border_color=1a3040)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Atualmente
+## Featured Projects
 
-- 🔨 Desenvolvendo **SYNAPSE** — app Android com IA e wearables
-- 📚 Aprofundando em **Data Engineering** e pipelines de dados
-- 🌐 Explorando integração de LLMs em aplicações de produção
-- 🇬🇧 Instrutor de inglês — comunicação técnica PT/EN
+### 🧠 [SYNAPSE — Android AI Audio Assistant](https://github.com/MarcosCF1/synapse)
+> Native Android app with real-time audio processing, AI transcription, and wearable integration
+
+**Stack:** `Kotlin` `Google Gemini` `Supabase` `n8n` `BLE / Mi Band 5`
+
+- Real-time audio capture and transcription via Gemini AI
+- Wearable integration (Mi Band 5) for biometric context
+- Smart automation layer with n8n workflows
+- Full offline-first architecture with cloud sync
+
+![Status](https://img.shields.io/badge/Status-Active%20Development-01696f?style=flat-square)
 
 ---
 
-## 📬 Contato
+### 💈 [Salon Control Hub](https://github.com/MarcosCF1/salon-control-hub)
+> Full-featured salon management dashboard — React + TypeScript + Supabase
+
+**Stack:** `React` `TypeScript` `Tailwind CSS` `Supabase` `shadcn/ui` `Vite`
+
+- Appointment scheduling, client management, financial overview
+- Role-based access control with Supabase Auth
+- Component-driven architecture with full test coverage (Vitest + Playwright)
+- Production-ready, deployed with zero hardcoded secrets
+
+![Status](https://img.shields.io/badge/Status-Production%20Ready-01696f?style=flat-square)
+
+---
+
+### 🧘 [FellTrack — Mental Health Diary](https://github.com/MarcosCF1/Di-rio-Mental-Felltrack)
+> Web application for mood tracking and mental wellness journaling
+
+**Stack:** `Python` `Flask` `SQLite` `Werkzeug` `Chart.js`
+
+- Secure user authentication with hashed passwords
+- Emotion tracking with intensity scale and image attachments
+- Interactive dashboard with emotion trends and daily averages
+- Clean MVC architecture with `login_required` decorator pattern
+
+![Status](https://img.shields.io/badge/Status-Complete-8b949e?style=flat-square)
+
+---
+
+### 🤖 [Line-Following Robot](https://github.com/MarcosCF1/Rob-Seguidor-de-Linha)
+> Autonomous robot with PID control algorithm for robotics competitions
+
+**Stack:** `C/C++` `Arduino` `IR Sensors` `PWM Motor Control`
+
+- PID (Proportional-Integral-Derivative) control implementation
+- Dual IR sensor array for precise line detection
+- Tuned for competitive performance on varied track surfaces
+
+![Status](https://img.shields.io/badge/Status-Complete-8b949e?style=flat-square)
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-MarcosCF1-181717?style=for-the-badge&logo=github)](https://github.com/MarcosCF1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Felipe-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/marcos-felipe-dev)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosCF1&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=4fa4b0&icon_color=01696f&text_color=8b949e&border_color=30363d&hide_border=false&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCF1&layout=compact&theme=github_dark&bg_color=0d1117&title_color=4fa4b0&text_color=8b949e&border_color=30363d&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MarcosCF1&theme=github-dark-blue&background=0d1117&border=30363d&stroke=01696f&ring=4fa4b0&fire=4fa4b0&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e)
 
 </div>
 
 ---
 
+## Currently
+
+- 🔨 Building **SYNAPSE** — AI-powered Android audio app with wearable sync
+- 📊 Studying **Data Engineering** — ETL, Airflow, dbt, Spark fundamentals
+- 🤝 Open to **Data Engineering** and **Backend** roles — remote or São Paulo
+- 🇬🇧 English Instructor — fluent technical communication in PT/EN
+
+---
+
+## Let's Connect
+
 <div align="center">
-  <sub>💡 <em>"Código limpo hoje é menos dívida técnica amanhã."</em></sub>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcos-pires-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcosCF1)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-01696f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos.pires@aluno.faculdadeimpacta.com.br)
+
+</div>
+
+<div align="center">
+  <sub>Open to full-time, contract, and freelance opportunities · Available for interviews immediately</sub>
 </div>
